@@ -63,4 +63,4 @@ jobs:
           app-name: 'd10'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3C2B6AA43C54A9A9647188DE69A0CFD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA7F1046031E4E77B1E3EFC3A74343CE }}
